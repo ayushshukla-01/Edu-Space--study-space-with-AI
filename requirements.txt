@@ -4,3 +4,6 @@ numpy
 pillow
 transformers
 torch
+deep-translator
+speechrecognition
+pyttsx3
