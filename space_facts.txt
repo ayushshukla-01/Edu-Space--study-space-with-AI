@@ -1,0 +1,75 @@
+moon: The Moon reflects sunlight, and this reflected light is called moonlight.
+black hole: A black hole is a region in space with a gravitational pull so strong that nothing, not even light, can escape it.
+constellation: A constellation is a recognizable pattern of stars in the night sky, like Orion, Ursa Major, and Cassiopeia.
+sun: The Sun is the star at the center of our Solar System and provides light and heat to Earth.
+milky way: The Milky Way is the spiral galaxy that contains our Solar System and billions of other stars.
+mars: Mars is known as the Red Planet due to iron oxide (rust) on its surface.
+jupiter: Jupiter is the largest planet in our Solar System and has at least 95 confirmed moons as of 2024.
+saturn: Saturn is famous for its beautiful and extensive ring system made of ice and rock particles.
+neptune: Neptune is the windiest planet in the Solar System with storms reaching 2,100 km/h.
+pluto: Pluto was reclassified from a planet to a dwarf planet in 2006 by the International Astronomical Union.
+comet: A comet is a small icy object that releases gas and dust forming a tail when it approaches the Sun.
+asteroid: An asteroid is a rocky object orbiting the Sun, mostly found in the asteroid belt between Mars and Jupiter.
+meteor: A meteor is a space rock that burns up in Earth's atmosphere, creating a streak of light called a shooting star.
+nebula: A nebula is a vast cloud of gas and dust where new stars are born.
+speed of light: The speed of light in a vacuum is exactly 299,792,458 meters per second.
+iss: The International Space Station orbits Earth at an altitude of approximately 408 km.
+voyager 1: The Voyager 1 spacecraft, launched in 1977, is over 24 billion km away from Earth as of 2025.
+hubble: The Hubble Space Telescope orbits Earth and has captured images of distant galaxies and nebulae since 1990.
+james webb: The James Webb Space Telescope is an infrared observatory designed to study the universe's earliest galaxies.
+gravity: Gravity is the force that attracts two objects toward each other.
+supernova: A supernova is a powerful explosion that marks the death of a massive star.
+pulsar: A pulsar is a rotating neutron star that emits regular radio pulses.
+light-year: A light-year equals approximately 9.46 trillion kilometers.
+andromeda: The Andromeda Galaxy is located about 2.537 million light-years away from Earth.
+quasar: A quasar is an extremely luminous and energetic active galactic nucleus powered by a supermassive black hole.
+rocket: A rocket launcher is a ground-based system designed to launch spacecraft or satellites into space.
+falcon 9: SpaceX Falcon 9 is a reusable rocket used for deploying satellites and resupplying the ISS.
+artemis: NASA’s Artemis program aims to return humans to the Moon by 2026.
+kuiper belt: The Kuiper Belt is a region beyond Neptune filled with icy objects and dwarf planets extending from 30 to 55 AU.
+orion: Orion is a famous constellation known for the three stars forming Orion’s Belt: Alnitak, Alnilam, and Mintaka.
+ursa major: Ursa Major contains the Big Dipper, one of the most easily recognizable asterisms.
+cassiopeia: Cassiopeia forms a distinctive 'W' shape in the northern sky.
+north star: The North Star, Polaris, is almost directly aligned with Earth's rotational axis.
+gamma-ray burst: A gamma-ray burst is one of the most powerful explosions in the universe.
+crab nebula: The Crab Nebula is the remnant of a supernova observed in 1054 AD, located 6,500 light-years away.
+solar mass: The Sun accounts for 99.86% of the total mass in the Solar System.
+star count: There are an estimated 200 billion trillion (2×10²³) stars in the observable universe.
+milky way stars: The Milky Way alone contains over 100 billion stars.
+earth speed: Earth orbits the Sun at an average speed of about 29.78 km/s (107,000 km/h).
+saturn rings: Saturn's rings extend up to 282,000 km from the planet but are less than a kilometer thick.
+parker solar probe: The fastest spacecraft ever built, Parker Solar Probe, reached speeds over 700,000 km/h.
+sun temperature: The Sun's surface temperature is around 5,778 Kelvin (5,505°C).
+uy scuti: The largest known star, UY Scuti, is about 1,700 times the Sun's diameter.
+neutron star: A neutron star can spin up to 700 times per second.
+moon distance: The Moon’s average distance from Earth is about 384,400 km.
+venus day: A solar day on Venus lasts 243 Earth days.
+olympus mons: Mars has the tallest volcano in the Solar System — Olympus Mons at 22 km high.
+big bang: The Big Bang occurred approximately 13.8 billion years ago.
+falcon heavy: SpaceX's Falcon Heavy can lift 63,800 kg to low Earth orbit.
+jupiter diameter: The largest planet in the Solar System is Jupiter with a diameter of 139,820 km.
+solar eclipse: A total solar eclipse happens when the Moon completely covers the Sun.
+mercury size: Mercury is the smallest planet, with a diameter of about 4,879 km.
+venus heat: Venus is the hottest planet, with surface temperatures reaching 467°C.
+neutron star density: Neutron stars are so dense a teaspoon of their material would weigh about a billion tons.
+meteor shower: A meteor shower occurs when Earth passes through a comet’s debris trail.
+andromeda collision: Andromeda and the Milky Way are predicted to collide in about 4.5 billion years.
+planetary nebula: A planetary nebula is formed when a star expels its outer layers as it dies.
+iss orbit: The ISS completes one orbit around Earth every 90 minutes.
+sun age: The Sun is about 4.6 billion years old and halfway through its life cycle.
+halley comet: Comet Halley is visible from Earth every 76 years.
+light-second: A light-second is the distance light travels in one second, approximately 299,792 km.
+alpha centauri: Alpha Centauri is the nearest star system at about 4.37 light-years away.
+universe size: The observable universe spans about 93 billion light-years across.
+solar fusion: The Sun produces energy via nuclear fusion in its core, converting hydrogen to helium.
+vela pulsar: The Vela Pulsar spins 11 times per second.
+great red spot: The Great Red Spot on Jupiter is a giant storm, larger than Earth.
+solar flare: Solar flares are sudden eruptions of radiation on the Sun’s surface.
+earth tilt: Earth's axial tilt of 23.5° causes the seasons.
+pluto moons: Pluto has five known moons, with Charon being the largest.
+titan: Saturn's moon Titan has a thick atmosphere and liquid methane lakes.
+sun core pressure: The Sun’s core pressure reaches 250 billion atmospheres.
+voyager 2: The space probe Voyager 2 is currently over 20 billion km from Earth.
+chandra: The Chandra X-ray Observatory detects X-rays from high-energy regions in space.
+white dwarf: A white dwarf is the hot, dense remnant of a star that has exhausted its fuel.
+perseverance: NASA’s Mars Perseverance rover landed on Mars on 18 February 2021.
