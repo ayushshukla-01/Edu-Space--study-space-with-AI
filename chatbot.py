@@ -1,7 +1,5 @@
 from transformers import pipeline
 from deep_translator import GoogleTranslator
-import pyttsx3
-import speech_recognition as sr
 import streamlit as st
 
 # Load facts from text file
@@ -14,57 +12,20 @@ def load_facts(file_path):
                 facts[key.lower()] = value.strip()
     return facts
 
-# Load your facts file (make sure it's in the same folder)
+# Load your facts file (must be in repo root)
 space_facts = load_facts("space_facts.txt")
 
-# QA Pipeline from Huggingface (RoBERTa)
-qa_pipeline = pipeline("question-answering", model="deepset/roberta-base-squad2")
-
-# Text-to-speech setup
-engine = pyttsx3.init()
-
-
-def speak(text):
-    try:
-        engine.say(text)
-        engine.runAndWait()
-    except RuntimeError:
-        pass  # avoid double run loop error if speaking already in progress
-
-    # Text-to-speech setup (initialize once using session state)
-if 'engine' not in st.session_state:
-    st.session_state.engine = pyttsx3.init()
-
-def speak(text):
-    try:
-        st.session_state.engine.say(text)
-        st.session_state.engine.runAndWait()
-    except RuntimeError:
-        pass
-
-
-# Speech recognition setup
-recognizer = sr.Recognizer()
+# QA Pipeline from Huggingface (RoBERTa) - force PyTorch
+qa_pipeline = pipeline(
+    "question-answering",
+    model="deepset/roberta-base-squad2",
+    framework="pt"  # force PyTorch
+)
 
 def run_chatbot():
     st.title("🚀 Edu-Space AI Chatbot")
     language = st.selectbox("Choose language:", ["English", "Hindi", "French", "German", "Spanish"])
-    input_mode = st.radio("Select Input Mode:", ("Text", "Speech"))
-
-    user_input = ""
-
-    if input_mode == "Text":
-        user_input = st.text_input("Ask your question here:")
-    else:
-        if st.button("Start Listening"):
-            with sr.Microphone() as source:
-                st.info("Listening...")
-                audio = recognizer.listen(source)
-            try:
-                user_input = recognizer.recognize_google(audio)
-                st.success(f"You said: {user_input}")
-            except:
-                st.error("Sorry, couldn't recognize.")
+    user_input = st.text_input("Ask your question here:")
 
     if user_input:
         lower_input = user_input.lower()
@@ -90,8 +51,6 @@ def run_chatbot():
         # 4️⃣ Show text reply
         st.success(response)
 
-        # 5️⃣ Speak the answer
-        speak(response)
 
 if __name__ == "__main__":
     run_chatbot()
